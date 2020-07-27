@@ -1,0 +1,10 @@
+body{
+    background-color: blueviolet;
+    
+}
+
+#clock{
+    position: absolute;
+    font-size: medium;
+    margin-left: 100px;
+}
